@@ -2,11 +2,22 @@
     background: tomato;
     padding: 10px;
     margin: 10px;
+    display: inline-block;
+    width: 450px;
+    align-items: center;
 
 }
+.img{
+    background: tomato;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+}
+
 img{
     width: 320px;
     height: 420px;
-    text-align: center;
-    justify-content: center;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
 }
